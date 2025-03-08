@@ -63,7 +63,7 @@ TrafficSensAI is a machine-learning framework for analyzing and predicting traff
 
 ---
 
-## 🤝 Team Members
+<!---## 🤝 Team Members
 <table align="left">
   <tr>
     <th>Name</th>
@@ -86,3 +86,4 @@ TrafficSensAI is a machine-learning framework for analyzing and predicting traff
     <td>Model Validation and Optimization</td>
   </tr>
 </table>
+-->
